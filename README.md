@@ -40,4 +40,29 @@ The following measures were calculated for analysis:
 * Sales (CAD)
 * % Unit Sales by Product
 * % Gross Profit by Product
+* Servings Sold
 
+## Analysis and Report
+**1. Sales and Gross Profit Margin by Customer and Customer Type**
+
+![image](https://user-images.githubusercontent.com/67699946/182036748-552dfa9d-1a57-4185-bd5f-895e783ea0ce.png)
+
+**Executive Summary**: While the highest sales by customer type is Bar with $68,797, the highest gross profit margins are SSBC Tasting Room with 60.8%. Among individual customers, the highest sales are Barrel's Best with a total of $52,676 while the highest gross profit margins (other than those in tasting room) are The Black Bear with 37.9%.
+
+**2. Percentage of Gross Profit and Unit Sales by Product**
+
+![image](https://user-images.githubusercontent.com/67699946/182036769-7509a5ab-67b9-4f79-94a6-473210695957.png)
+
+**Executive Summary**: Bamboo Grove Maibock has the highest sales and gross profit share. Despite having 16.1% share of sales, Scholar Saison has only 0.3% gross profit share while in contrast, Han Dynasty Spied Lager has only 4.1% sales share and collects a 10.5% gross profit share.
+
+**3. Most Profitable Product per Serving**
+
+![image](https://user-images.githubusercontent.com/67699946/182036904-88291a7d-f8e8-4b0e-ac17-6e968a689e90.png)
+
+**Executive Summary**: Keg is the most profitable with $44.62 Gross Profit per serving while Six-Pack is the least profitable with $2.22 Gross Profit per serving. The company made a loss of $0.14 for Six-Pack's Scholar Saison.
+
+**4. Seasonality**
+
+![image](https://user-images.githubusercontent.com/67699946/182036998-1160c227-cad6-453c-b638-d9a23bfc8dc4.png)
+
+**Executive Summary**: Imperial Poet Porter has its least sales between May and June then it continues to increase from September to January. Scholar's Saison remain consistent for most months but started increase by April and sees a spike in June. Henan Hops Wheat Bear experienced its highest sales in October. Bamboo Grove Maibock is consistent but sees a spike in May and November.
