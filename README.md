@@ -28,7 +28,7 @@ Several transformation processes were carried out in Power Query. Some of them a
   * SSBC's Fiscal year begins on October 1st and runs until September 30th. This was factored in to the analysis.
   * The _Date_ table was marked as the Date Table in Power BI.
 
-## Relationships
+## Data Modelling
 _Sales_ table is the Fact Table while _Products, Customer, USD-CAD Exchange Rates,_ and _Date_ are the Dimension Tables.
 _Many to 1_ relationships are used to connect the _Sales_ table to the dimension tables.
 
