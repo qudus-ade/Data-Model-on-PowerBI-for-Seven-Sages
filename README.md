@@ -4,6 +4,8 @@ A data model and Power BI report for Seven Sages Brewing Company that combines i
 ## Introduction
 This project is the first of three projects in the Udacity Data Analysis and Visualization with Microsoft Power BI Nanodegree Program. A data model was created for Seven Sages Brewing Company (SSBC) to enable the company's CFO quickly review and analyze what beers sell well and which ones generate the highest profitability.
 
+Check [here](https://github.com/qudus-ade/Data-Model-on-PowerBI-for-Seven-Sages/blob/main/SSBC%20Data%20Model%20and%20Report.pbix) for the Power BI report.
+
 ## Data
 The data listed below were loaded into Power BI using _Get Data_ in Power Query
 * SSBC Product Offerings (PDF): A list of the product offerings offered by SSBC
@@ -66,3 +68,5 @@ The following measures were calculated for analysis:
 ![image](https://user-images.githubusercontent.com/67699946/182036998-1160c227-cad6-453c-b638-d9a23bfc8dc4.png)
 
 **Executive Summary**: Imperial Poet Porter has its least sales between May and June then it continues to increase from September to January. Scholar's Saison remain consistent for most months but started increase by April and sees a spike in June. Henan Hops Wheat Bear experienced its highest sales in October. Bamboo Grove Maibock is consistent but sees a spike in May and November.
+
+You can check the Power BI report [here](https://github.com/qudus-ade/Data-Model-on-PowerBI-for-Seven-Sages/blob/main/SSBC%20Data%20Model%20and%20Report.pbix)
