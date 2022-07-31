@@ -32,3 +32,12 @@ _Many to 1_ relationships are used to connect the _Sales_ table to the dimension
 
 ![image](https://user-images.githubusercontent.com/67699946/182036142-bbc51a26-4d51-4a01-9f83-e2eb7b637ab7.png)
 
+## Measures Calculated
+The following measures were calculated for analysis:
+* Sales (USD)
+* Cost of Sales (USD)
+* Gross Profit Margin (%)
+* Sales (CAD)
+* % Unit Sales by Product
+* % Gross Profit by Product
+
