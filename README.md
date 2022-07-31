@@ -21,3 +21,7 @@ Several transformation processes were carried out in Power Query. Some of them a
 * **Customer**
   * Clean data correcting misspelled _Canada_ spelt as _Canarda_
   * A _Currency_ column was created using the _Country_ column. The column contains CAD for customers in Canada and USD for United States.
+* **Date**:
+  * Date table was created using the `Date.StartOfYear()` for the start date and `Date.EndOfYear()` for the end date.
+  * SSBC's Fiscal year begins on October 1st and runs until September 30th. This was factored in to the analysis.
+  * The _Date_ table was marked as the Date Table in Power BI.
